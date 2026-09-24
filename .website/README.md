@@ -1,4 +1,8 @@
 ---
+genres:
+  - simulation
+  - narrative
+  - casual
 directors_cut: https://killedbyapixel.github.io/EmojiHighSchool/
 video: https://youtu.be/yTCU0DqeJ2Q
 # See github.com/js13kGames/hello-world for supported frontmatter
